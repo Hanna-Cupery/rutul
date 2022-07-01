@@ -1,0 +1,70 @@
+PATTERNS
+Noun Nom (erg|case|gen)? #первый тип склонения, Ибрагимова, 58
+Noun Nom (erg|erg case|erg gen)? #второй тип склоления, Ибрагимова, 59 
+Noun Nom (gen (gen|case|erg))? #третий тип склоления, Ибрагимова, 59 
+Noun Nom (deter case|erg|gen)? #четвертий тип склоления, Ибрагимова, 59 
+
+LEXICON Noun
+дид #отец
+рыш #девочка
+йац #бык
+хал #дом
+дух #сын 
+ваз #луна 
+балта #топор
+нагъв #слеза 
+
+LEXICON Nom
+<n>:
+
+
+LEXICON erg
+<erg>:аь
+<erg>:ере
+<erg>:ара
+<erg>:ыра
+
+LEXICON gen 
+<gen>:ды
+<gen>:уд
+<gen>:ад
+<gen>:ыд
+
+LEXICON case
+<dat>:ис
+<dat>:ес
+<dat>:ас
+<dat>:ыс
+<com>:ыхьван
+<com>:ыкван#диалект
+<com>:аьхьван
+<com>:аькван#диалект
+<com>:ахьван
+<com>:акван#диалект
+<com>:ыхьван
+
+LEXICON deter
+<det>:а1л
+<det>:ал
+
+LEXICON spatial
+<in><ess>:а #1 Ибрагимова
+<in><ess>:аI
+<in><ess>:аь
+<in><ess>:ы
+<in><ess>:и
+<in><lat>:ы
+<in><lat>:у
+<in><elat>:а
+<in><elat>:а1
+<sub><ess>:вк' #2 Ибрагимова
+<sub><ess>вхь'
+<sub><ess>:к'
+<sub><ess>:хь'
+<sub><lat>:даь
+<sub><elat>:ла
+<apud><lat>даь #3 Ибрагимова
+<apud><elat>:да
+<ad><lat>:да #4 Ибрагимова
+<ad><elat>:ла
+<comp><elat>:ыла #5 Ибрагимова
