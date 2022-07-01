@@ -10,6 +10,8 @@ This parser uses the 1978 Grammar produced by Ibragimov as the main source, as i
 <h4>About this project</h4>
 Currently the parcer can parse numbers and nouns, but it is a work in progress. 
 More details about this parcer and the parcer for Botlikh can be found 
+
+- [Chamalal (Andic)](https://github.com/ZinaBudilova/Chamalal_parser)
 [Chamalal (Andic)](https://github.com/ZinaBudilova/Chamalal_parser)
 [here](https://github.com/fkaimphilat/botlikh-morph) [here](https://drive.google.com/file/d/1woS1dzNJDn-pb3D75tW5CIw6KdB_jMns/view?usp=sharing)
 
