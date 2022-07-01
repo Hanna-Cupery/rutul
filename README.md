@@ -20,7 +20,7 @@ Other morphological parcers produced by students at HSE can be found int he foll
 - [Andi (Andic)](https://github.com/vbunt/andi)
 - [Bagvalal (Andic)](https://github.com/ruthenian8/bagvalal)
 - [Chamalal (Andic)](https://github.com/ZinaBudilova/Chamalal_parser)
-[Boklikh (Andic)](https://github.com/fkaimphilat/botlikh-morph)
-- [Botlikh (Andic)]()
+- [Boklikh (Andic)](https://github.com/fkaimphilat/botlikh-morph)
+
 
 
